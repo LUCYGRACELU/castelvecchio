@@ -1,4 +1,4 @@
-﻿window.galleryData = [
+window.galleryData = [
     {
         "id":  "A02",
         "group":  "A",
